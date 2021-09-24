@@ -1,0 +1,61 @@
+id_oeuvre,titre,date_sortie,score,recompense,categorie,id_realisateur
+1,Interstellar,2014-11-05,5,1,sci-fi,1
+2,Inception,2010-07-21,5,1,sci-fi,1
+3,Batman Begins,2005-05-31,4,0,superhero,1
+4,The Dark Knight,2008-08-13,5,1,superhero,1
+5,Dark Knight Rises,2012-07-25,4,0,superhero,1
+6,Drive,2011-10-05,4,1,drama,2
+7,The Neon Demon,2016-05-20,3,0,drama,2
+8,Fight Club,2010-10-13,5,0,drama,3
+9,Se7en,1996-01-31,5,0,thriller,3
+10,Gone Girl,2014-10-08,4,0,drama,3
+11,The Social Network,2010-10-13,4,1,biopic,3
+12,Coco,2017-10-20,4,1,animated,4
+13,Toy Story,1996-03-27,4,1,animated,5
+14,Toy Story 2,2000-02-02,4,0,animated,5
+15,Toy Story 3,2010-07-14,4,1,animated,6
+16,Toy Story 4,2019-06-11,3,1,animated,7
+17,"Monsters, Inc",2002-03-20,4,1,animated,8
+18,Wall-E,2008-07-30,4,1,animated,9
+19,Up,2009-07-29,5,1,animated,8
+20,Star Wars : Episode 1,1999-10-13,2,0,sci-fi,10
+21,Star Wars : Episode 2,2002-05-17,2,0,sci-fi,10
+22,Star Wars : Episode 3,2005-05-18,3,0,sci-fi,10
+23,Star Wars : Episode 4,1977-10-19,4,1,sci-fi,10
+24,Star Wars : Episode 5,1980-08-20,4,1,sci-fi,11
+25,Star Wars : Episode 6,1983-10-19,4,1,sci-fi,12
+26,Game of Thrones,2011-04-17,5,1,medieval,13
+27,WestWorld,2016-10-02,5,1,sci-fi,14
+28,How I Met Your Mother,2005-05-19,3,0,comedy,15
+29,Mr. Robot,2015-06-24,4,1,psychological,16
+30,Vikings,2013-03-03,4,1,medieval,17
+31,Friends,1994-09-22,5,1,comedy,18
+32,True Blood,2008-09-07,4,0,fantasy,19
+33,Breaking Bad,2008-01-20,5,1,drama,20
+34,Better Call Saul,2018-02-08,5,0,drama,20
+35,Lost,2004-09-22,4,1,drama,21
+36,Hannibal,2013-04-04,3,0,thriller,22
+37,The Office,2005-03-24,4,1,comedy,23
+38,Buffy The Vampire Slayer,1997-03-10,4,0,fantasy,24
+39,The Last Kingdom,2015-10-10,3,0,medieval,25
+40,This is Us,2016-09-20,5,1,drama,26
+41,Black Mirror,2011-12-04,5,1,sci-fi,27
+42,Supernatural,2005-09-13,4,0,fantasy,28
+43,The Vampire Diaries,2009-09-10,2,0,fantasy,29
+44,The Walking Dead,2010-10-31,4,1,zombie,30
+45,Fear The Walking Dead,2015-08-23,3,0,zombie,31
+46,World Beyond,2020-01-01,3,0,zombie,32
+47,Z Nation,2014-09-12,3,0,zombie,33
+48,Arrow,2012-10-10,4,0,superhero,34
+49,Flash,2014-10-07,3,0,superhero,34
+50,Heroes,2006-09-25,4,0,superhero,35
+51,Lord of the Rings 1,2001-12-10,5,1,medieval,36
+52,Lord of the Rings 2,2002-12-10,5,1,medieval,36
+53,Lord of the Rings 3,2003-12-17,5,1,medieval,36
+54,Welcome to VampireLand,2020-10-09,4,0,fantasy,11
+55,Silence of the Sheeps,2020-05-06,3,1,thriller,2
+56,The Vengers,2020-03-25,2,0,superhero,24
+57,Injustice League,2020-01-06,1,0,superhero,24
+58,Peaky Deafers,2020-02-16,5,1,drama,34
+59,Legends of Yesterday,2020-10-13,1,0,superhero,26
+60,Funny Things,2020-12-17,2,0,comedy,27
